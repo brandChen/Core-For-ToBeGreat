@@ -2,7 +2,7 @@ package Iterator;
 
 public interface Collection {
      
-    Iterator iterator();
+    Iterator iterator(); 
      
     /*取得集合元素*/
     Object get(int i);
