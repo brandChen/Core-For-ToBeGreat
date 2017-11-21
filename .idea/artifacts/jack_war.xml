@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jack:war">
+    <output-path>D:/workspace2/jack/jack/target</output-path>
+    <root id="archive" name="jack.war">
+      <element id="artifact" artifact-name="jack:war exploded" />
+    </root>
+  </artifact>
+</component>

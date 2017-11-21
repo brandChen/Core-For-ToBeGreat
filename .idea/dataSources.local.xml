@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - forw@localhost" uuid="481f14b6-f85a-45ac-ba2e-c7e880c53fa3">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>forw.*</schema-pattern>
+      <default-schemas>forw.*</default-schemas>
+    </data-source>
+  </component>
+</project>

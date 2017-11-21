@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Core-For-ToBeGreat.iml" filepath="$PROJECT_DIR$/Core-For-ToBeGreat.iml" />
+      <module fileurl="file://D:/workspace2/jack/jack/jack.iml" filepath="D:/workspace2/jack/jack/jack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jack/jack/jack.iml" filepath="$PROJECT_DIR$/../jack/jack/jack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solrJDemo/solrJDemo/solrJDemo.iml" filepath="$PROJECT_DIR$/../solrJDemo/solrJDemo/solrJDemo.iml" />
+    </modules>
+  </component>
+</project>

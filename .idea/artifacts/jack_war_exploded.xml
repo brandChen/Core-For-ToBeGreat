@@ -1,0 +1,88 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jack:war exploded">
+    <output-path>D:/workspace2/jack/jack/target/jack</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jack" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.apache.struts:struts2-core:2.3.15.1" />
+          <element id="library" level="project" name="Maven: org.apache.struts.xwork:xwork-core:2.3.15.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: ognl:ognl:3.0.6" />
+          <element id="library" level="project" name="Maven: asm:asm:3.3" />
+          <element id="library" level="project" name="Maven: asm:asm-commons:3.3" />
+          <element id="library" level="project" name="Maven: asm:asm-tree:3.3" />
+          <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.19" />
+          <element id="library" level="project" name="Maven: javassist:javassist:3.11.0.GA" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: org.apache.struts:struts2-spring-plugin:2.3.15.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.6" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-servlet_2.5_spec:1.2" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: com.wondertek.mobilevideo.sso:sso-client:4.0.0" />
+          <element id="library" level="project" name="Maven: org.jasig.cas:cas-client-core:3.1.9" />
+          <element id="library" level="project" name="Maven: javax.validation:validation-api:1.0.0.GA" />
+          <element id="library" level="project" name="Maven: com.wondertek.mobilevideo.core:core-base:4.0.0" />
+          <element id="library" level="project" name="Maven: com.oracle:ojdbc6:11.1.0.7.0" />
+          <element id="library" level="project" name="Maven: com.wondertek.mobilevideo.core:core-util:4.0.0" />
+          <element id="library" level="project" name="Maven: com.sun.media:jai_codec:1.1.2_01" />
+          <element id="library" level="project" name="Maven: javax.media:jai_core:1.1.2_01" />
+          <element id="library" level="project" name="Maven: com.sun.media:jai_imageio:1.1" />
+          <element id="library" level="project" name="Maven: com.thoughtworks.xstream:xstream:1.4.2" />
+          <element id="library" level="project" name="Maven: xmlpull:xmlpull:1.1.3.1" />
+          <element id="library" level="project" name="Maven: xpp3:xpp3_min:1.1.4c" />
+          <element id="library" level="project" name="Maven: com.jcraft:jsch:0.1.48" />
+          <element id="library" level="project" name="Maven: com.danga:memcached:2.0.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.0.3" />
+          <element id="library" level="project" name="Maven: org.codehaus.woodstox:stax2-api:3.0.1" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.1.0" />
+          <element id="library" level="project" name="Maven: jaxen:jaxen:1.1.1" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.3.02" />
+          <element id="library" level="project" name="Maven: jdom:jdom:1.0" />
+          <element id="library" level="project" name="Maven: xerces:xercesImpl:2.6.2" />
+          <element id="library" level="project" name="Maven: xom:xom:1.0" />
+          <element id="library" level="project" name="Maven: xerces:xmlParserAPIs:2.6.2" />
+          <element id="library" level="project" name="Maven: xalan:xalan:2.6.0" />
+          <element id="library" level="project" name="Maven: com.ibm.icu:icu4j:2.6.1" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
+          <element id="library" level="project" name="Maven: org.apache.struts:struts2-json-plugin:2.1.8" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.3" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-net:commons-net:2.0" />
+          <element id="library" level="project" name="Maven: cglib:cglib:2.2" />
+          <element id="library" level="project" name="Maven: commons-httpclient:commons-httpclient:3.1" />
+          <element id="library" level="project" name="Maven: org.apache.poi:poi:3.2-FINAL" />
+          <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.2" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.6.1" />
+          <element id="library" level="project" name="Maven: org.beanshell:bsh:2.0b4" />
+          <element id="library" level="project" name="Maven: jxl:jxl:2.6.12" />
+          <element id="library" level="project" name="Maven: org.apache.struts:struts2-junit-plugin:2.1.8" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:2.5.6" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.2" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/workspace2/jack/jack/target/jack/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jack/web/Web" />
+    </root>
+  </artifact>
+</component>
