@@ -2,136 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="670357d8-9b38-48fb-aad1-0892910059ab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/MailSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/Provider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/SendMailFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/SendSmsFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/Sender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/SmsSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/AbstractFactory1抽象工厂模式/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/Adapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/AdapterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/Source.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/SourceSub1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/SourceSub2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/Sourceable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/Targetable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/Wrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Adapter2适配器模式/Wrapper2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Bridge2桥接模式/Bridge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Bridge2桥接模式/BridgeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Bridge2桥接模式/MyBridge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Bridge2桥接模式/SourceSub1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Bridge2桥接模式/SourceSub2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Bridge2桥接模式/Sourceable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/Builder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/MailSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/Sender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/SmsSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3责任链模式/Handler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Composite2组合模式/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Composite2组合模式/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Decorator2装饰模式/Decorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Decorator2装饰模式/DecoratorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Decorator2装饰模式/Source.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Decorator2装饰模式/Sourceable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Facade2外观模式/CPU.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Facade2外观模式/Computer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Facade2外观模式/Disk.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Facade2外观模式/Memory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Facade2外观模式/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/FactoryMethod1工厂模式/FactoryTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/FactoryMethod1工厂模式/MailSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/FactoryMethod1工厂模式/SendFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/FactoryMethod1工厂模式/Sender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/FactoryMethod1工厂模式/SmsSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Flyweight2享元模式/ConnectionPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Prototype1原型模式/Prototype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Proxy2代理模式/Proxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Proxy2代理模式/ProxyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Proxy2代理模式/Source.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Proxy2代理模式/Sourceable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Singleton1单例模式/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/designModule/Singleton1单例模式/SingletonTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3/Handler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ChainOfResponsibility/AbstractHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ChainOfResponsibility/Handler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ChainOfResponsibility/MyHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ChainOfResponsibility/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Command/Command.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Command/Invoker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Command/MyCommand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Command/Receiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Command/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Iterator/Collection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Iterator/Iterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Iterator/MyCollection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Iterator/MyIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Iterator/Test.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/AbstractSubject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/MySubject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/Observer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/Observer1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/Observer2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/ObserverTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Observer/Subject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Strategy/AbstractCalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Strategy/ICalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Strategy/Minus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Strategy/Multiply.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Strategy/Plus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Strategy/StrategyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/TemplateMethod/AbstractCalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/TemplateMethod/Plus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/TemplateMethod/StrategyTest.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3/AbstractHandler.java" afterPath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3责任链模式/AbstractHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3/MyHandler.java" afterPath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3责任链模式/MyHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3责任链模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Command3/Command.java" afterPath="$PROJECT_DIR$/src/main/designModule/Command3命令模式/Command.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Command3/Invoker.java" afterPath="$PROJECT_DIR$/src/main/designModule/Command3命令模式/Invoker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Command3/MyCommand.java" afterPath="$PROJECT_DIR$/src/main/designModule/Command3命令模式/MyCommand.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Command3/Receiver.java" afterPath="$PROJECT_DIR$/src/main/designModule/Command3命令模式/Receiver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Command3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/Command3命令模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Interpreter3/Context.java" afterPath="$PROJECT_DIR$/src/main/designModule/Interpreter3解释器模式/Context.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Interpreter3/Expression.java" afterPath="$PROJECT_DIR$/src/main/designModule/Interpreter3解释器模式/Expression.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Interpreter3/Minus.java" afterPath="$PROJECT_DIR$/src/main/designModule/Interpreter3解释器模式/Minus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Interpreter3/Plus.java" afterPath="$PROJECT_DIR$/src/main/designModule/Interpreter3解释器模式/Plus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Interpreter3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/Interpreter3解释器模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Iterator3/Collection.java" afterPath="$PROJECT_DIR$/src/main/designModule/Iterator3迭代子模式/Collection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Iterator3/Iterator.java" afterPath="$PROJECT_DIR$/src/main/designModule/Iterator3迭代子模式/Iterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Iterator3/MyCollection.java" afterPath="$PROJECT_DIR$/src/main/designModule/Iterator3迭代子模式/MyCollection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Iterator3/MyIterator.java" afterPath="$PROJECT_DIR$/src/main/designModule/Iterator3迭代子模式/MyIterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Iterator3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/Iterator3迭代子模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Mediator3/Mediator.java" afterPath="$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/Mediator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Mediator3/MyMediator.java" afterPath="$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/MyMediator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Mediator3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Mediator3/User.java" afterPath="$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Mediator3/User1.java" afterPath="$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/User1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Mediator3/User2.java" afterPath="$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/User2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Memento3/Memento.java" afterPath="$PROJECT_DIR$/src/main/designModule/Memento3备忘录模式/Memento.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Memento3/Original.java" afterPath="$PROJECT_DIR$/src/main/designModule/Memento3备忘录模式/Original.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Memento3/Storage.java" afterPath="$PROJECT_DIR$/src/main/designModule/Memento3备忘录模式/Storage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Memento3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/Memento3备忘录模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/AbstractSubject.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/AbstractSubject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/MySubject.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/MySubject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/Observer.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/Observer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/Observer1.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/Observer1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/Observer2.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/Observer2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/ObserverTest.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/ObserverTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Observer3/Subject.java" afterPath="$PROJECT_DIR$/src/main/designModule/Observer3观察者模式/Subject.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/State3/Context.java" afterPath="$PROJECT_DIR$/src/main/designModule/State3状态模式/Context.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/State3/State.java" afterPath="$PROJECT_DIR$/src/main/designModule/State3状态模式/State.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/State3/Test.java" afterPath="$PROJECT_DIR$/src/main/designModule/State3状态模式/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Strategy3/AbstractCalculator.java" afterPath="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/AbstractCalculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Strategy3/ICalculator.java" afterPath="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/ICalculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Strategy3/Minus.java" afterPath="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/Minus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Strategy3/Multiply.java" afterPath="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/Multiply.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Strategy3/Plus.java" afterPath="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/Plus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/Strategy3/StrategyTest.java" afterPath="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/StrategyTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/TemplateMethod3/AbstractCalculator.java" afterPath="$PROJECT_DIR$/src/main/designModule/TemplateMethod3模板方法模式/AbstractCalculator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/TemplateMethod3/Plus.java" afterPath="$PROJECT_DIR$/src/main/designModule/TemplateMethod3模板方法模式/Plus.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/designModule/TemplateMethod3/StrategyTest.java" afterPath="$PROJECT_DIR$/src/main/designModule/TemplateMethod3模板方法模式/StrategyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/SomeApi/Redis/RedisJava.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Core-For-ToBeGreat.iml" afterPath="$PROJECT_DIR$/Core-For-ToBeGreat.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="databaseStudy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -166,26 +39,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/designModule/Interpreter3解释器模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/designModule/Iterator3迭代子模式/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/designModule/Mediator3中介者模式/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -236,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StrategyTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StrategyTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/designModule/TemplateMethod3模板方法模式/StrategyTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
@@ -246,22 +99,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/designModule/ChainOfResponsibility3责任链模式/Test.java">
+      <file leaf-file-name="Visitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/designModule/Visitor3访问者模式/Visitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/designModule/Command3命令模式/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/designModule/Visitor3访问者模式/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="345">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisJava.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/SomeApi/Redis/RedisJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -291,9 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/designModule/AbstractFactory1/SendSmsFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/designModule/AbstractFactory1/Provider.java" />
-        <option value="$PROJECT_DIR$/src/main/designModule/AbstractFactory1/Test.java" />
         <option value="$PROJECT_DIR$/src/main/designModule/Singleton1单例模式/Singleton.java" />
         <option value="$PROJECT_DIR$/src/main/designModule/Singleton1单例模式/SingletonTest.java" />
         <option value="$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/MailSender.java" />
@@ -342,6 +214,9 @@
         <option value="$PROJECT_DIR$/src/main/designModule/Strategy3策略模式/StrategyTest.java" />
         <option value="$PROJECT_DIR$/src/main/designModule/TemplateMethod3模板方法模/StrategyTest.java" />
         <option value="$PROJECT_DIR$/src/main/designModule/TemplateMethod3模板方法模式/StrategyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/designModule/Visitor3访问者模式/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/SomeApi/Redis/RedisJava.java" />
       </list>
     </option>
   </component>
@@ -406,10 +281,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -450,16 +323,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Core-For-ToBeGreat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -500,345 +363,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
+              <option name="myItemId" value="SomeApi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TemplateMethod3模板方法模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Strategy3策略模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="State3状态模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Proxy2代理模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Observer3观察者模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Memento3备忘录模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Mediator3中介者模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Iterator3迭代子模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Interpreter3解释器模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FactoryMethod1工厂模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Facade2外观模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Command3命令模式" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Core-For-ToBeGreat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designModule" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ChainOfResponsibility3责任链模式" />
+              <option name="myItemId" value="Redis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -884,27 +413,7 @@
       <recent name="com.hyc.solrJDemo.dao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tree">
-    <configuration default="false" name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Adapter2适配器模式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Adapter2适配器模式.AdapterTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Core-For-ToBeGreat" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RedisJava">
     <configuration default="false" name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -973,6 +482,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Composite2组合模式.Tree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Core-For-ToBeGreat" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RedisJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Redis.RedisJava" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1717,19 +1246,19 @@
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.SolrJDemoApplication" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 9.0.0.M21" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AdapterTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ProxyTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.User" />
-      <item index="6" class="java.lang.String" itemvalue="Application.BridgeTest" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ProxyTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.User" />
+      <item index="5" class="java.lang.String" itemvalue="Application.BridgeTest" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Tree" />
+      <item index="7" class="java.lang.String" itemvalue="Application.RedisJava" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BridgeTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.User" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ProxyTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.AdapterTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RedisJava" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BridgeTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.User" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1761,21 +1290,21 @@
       <workItem from="1510822235032" duration="4327000" />
       <workItem from="1511140328992" duration="7071000" />
       <workItem from="1511229966965" duration="8714000" />
-      <workItem from="1511312993020" duration="4994000" />
+      <workItem from="1511312993020" duration="8397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72931000" />
+    <option name="totallyTimeSpent" value="76334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32329988" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3327957" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1967742" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1789,10 +1318,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29988852" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2996595" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18443497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860215" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1867,51 +1396,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/designModule/Singleton1单例模式/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-          <folding>
-            <element signature="e#535#536#0" expanded="false" />
-            <element signature="e#583#584#0" expanded="false" />
-            <element signature="e#657#658#0" expanded="false" />
-            <element signature="e#693#694#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/designModule/Singleton1单例模式/SingletonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/methodForSort/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3354">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/methodForSort/sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/Sender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/designModule/Builder1建造者模式/SmsSender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -2193,8 +1677,8 @@
         <state relative-caret-position="396">
           <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#225#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#215#225#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2212,7 +1696,7 @@
         <state relative-caret-position="230">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2294,6 +1778,50 @@
         <state relative-caret-position="69">
           <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/designModule/Visitor3访问者模式/Visitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Qipanfugai.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#1836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/designModule/Visitor3访问者模式/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/SomeApi/Redis/RedisJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
