@@ -4,7 +4,7 @@ package queue;
  * Created by Administrator on 2017/11/8.
  */
 public class PriorityQ {
-    private int maxSize;
+    private int maxSize; 
     private long[] queArray;
     private int nItems;
 
